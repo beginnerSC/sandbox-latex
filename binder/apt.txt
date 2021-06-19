@@ -7,5 +7,5 @@ texlive-publishers
 texlive-science
 texlive-xetex
 texlive-lang-chinese
-texlive-lang-cjk
+latex-cjk-all 
 tree
