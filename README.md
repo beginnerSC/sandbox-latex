@@ -1,7 +1,7 @@
 # Clean JupyterLab Workspace in the Could
 
 
-* 試著編譯繁體中文失敗。[nbconvert 在 ubuntu 上用的是 texlive](https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex)但試不出用 texlive 編譯繁的中文
+* 試著編譯繁體中文失敗。[nbconvert 在 ubuntu 上用的是 texlive](https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex) 但試不出用 texlive 編譯繁的中文
 * 安裝了 latex-cjk-all 之後能編譯 pdf 但得到一片空白
 
 
